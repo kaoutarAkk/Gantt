@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\aMDDpk0AjIi1JRqtO5WHWpoGpH_ePeKTBdG0X_qyQ00=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\zKVpJT3O2lK7qWfMCJBuei8gfAZhPSmwNcBnN7A9ocQ=.hash",
       "Source": "D:\\test\\gantt\\gantt\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\gantt.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/gantt.dll.gz"
     },
@@ -331,7 +331,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4PCuiMuRhf-CRGiK2fV8Tm_0SQGzT_71xUfXEYFL3e4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_T11DKhK9TaovFIaPVOs_oXke19kknUSY_akOgFJVmc=.hash",
       "Source": "D:\\test\\gantt\\gantt\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\gantt.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/gantt.pdb.gz"
     },
@@ -361,7 +361,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ma1Mv38xotjGcgZZKLmgiMhgXedpfGHHYo4RbrLC_sQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Ird4Tb9D2AukXDyEAk_pYBJg8ZGpRtlI8AJ5fDIDfxU=.hash",
       "Source": "D:\\test\\gantt\\gantt\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

@@ -25,7 +25,7 @@
     </SfGantt>
 </div>
 <br/>
-<div>
+@*<div>
   <h3>Selected Features:</h3>
     <ul class="ulstyle">
       <li class="list"> Zooming</li>
@@ -34,7 +34,7 @@
       <li class="list"> Timeline</li>
       <li class="list"> Theme - Bootstrap v4</li>
     </ul>
-</div>
+</div>*@
 <br/>
 <style>
     .ulstyle {
@@ -50,13 +50,13 @@
     }
 </style>
 @code{
-    public DateTime ProjectStart = new DateTime(2019, 4, 1);
-    public DateTime ProjectEnd = new DateTime(2019, 5, 4);
-    public DateTime EventDay1 = new DateTime(2019, 4, 17);
-    public DateTime HolidayFrom1 = new DateTime(2019, 4, 11);
-    public DateTime HolidayTo1 = new DateTime(2019, 4, 12);
-    public DateTime HolidayFrom2 = new DateTime(2019, 4, 1);
-    public DateTime HolidayTo2 = new DateTime(2019, 4, 1);
+    public DateTime ProjectStart = new DateTime(2020, 4, 1);
+    public DateTime ProjectEnd = new DateTime(2020, 5, 4);
+    public DateTime EventDay1 = new DateTime(2020, 4, 17);
+    public DateTime HolidayFrom1 = new DateTime(2020, 4, 11);
+    public DateTime HolidayTo1 = new DateTime(2020, 4, 12);
+    public DateTime HolidayFrom2 = new DateTime(2020, 4, 1);
+    public DateTime HolidayTo2 = new DateTime(2020, 4, 1);
     public List<TaskData> TaskCollection { get; set; }
     public int DefaultUnitWidth = 33;
     public int TopTierCount = 1;
@@ -87,27 +87,27 @@
         new TaskData() {
             TaskId = 1,
             TaskName = "Project initiation",
-            StartDate = new DateTime(2019, 04, 02),
-            EndDate = new DateTime(2019, 04, 21),
+            StartDate = new DateTime(2020, 04, 02),
+            EndDate = new DateTime(2020, 04, 21),
             SubTasks = (new List <TaskData> () {
                 new TaskData() {
                     TaskId = 2,
                     TaskName = "Identify Site location",
-                    StartDate = new DateTime(2019, 04, 02),
+                    StartDate = new DateTime(2020, 04, 02),
                     Duration = "0",
                     Progress = 30
                 },
                 new TaskData() {
                     TaskId = 3,
                     TaskName = "Perform soil test",
-                    StartDate = new DateTime(2019, 04, 02),
+                    StartDate = new DateTime(2020, 04, 02),
                     Duration = "4",
                     Predecessor = "2",
                 },
                 new TaskData() {
                     TaskId = 4,
                     TaskName = "Soil test approval",
-                    StartDate = new DateTime(2019, 04, 02),
+                    StartDate = new DateTime(2020, 04, 02),
                     Duration = "0",
                     Progress = 30,
                     Predecessor = "3"
@@ -117,13 +117,13 @@
         new TaskData() {
             TaskId = 5,
             TaskName = "Project estimation",
-            StartDate = new DateTime(2019, 04, 02),
-            EndDate = new DateTime(2019, 04, 21),
+            StartDate = new DateTime(2020, 04, 02),
+            EndDate = new DateTime(2020, 04, 21),
             SubTasks = (new List <TaskData> () {
                 new TaskData() {
                     TaskId = 6,
                     TaskName = "Develop floor plan for estimation",
-                    StartDate = new DateTime(2019, 04, 04),
+                    StartDate = new DateTime(2020, 04, 04),
                     Duration = "3",
                     Progress = 30,
                     Predecessor = "4",
@@ -131,14 +131,14 @@
                 new TaskData() {
                     TaskId = 7,
                     TaskName = "List materials",
-                    StartDate = new DateTime(2019, 04, 04),
+                    StartDate = new DateTime(2020, 04, 04),
                     Duration = "3",
                     Predecessor = "6",
                 },
                 new TaskData() {
                     TaskId = 8,
                     TaskName = "Estimation approval",
-                    StartDate = new DateTime(2019, 04, 04),
+                    StartDate = new DateTime(2020, 04, 04),
                     Duration = "0",
                     Predecessor = "7",
                 },
@@ -147,7 +147,7 @@
         new TaskData() {
             TaskId = 9,
             TaskName = "Sign contract",
-            StartDate = new DateTime(2019, 04, 04),
+            StartDate = new DateTime(2020, 04, 04),
             Duration = "1",
             Predecessor = "8",
             Progress = 30,
@@ -155,21 +155,21 @@
         new TaskData() {
             TaskId = 10,
             TaskName = "Project approval and kick off",
-            StartDate = new DateTime(2019, 04, 04),
-            EndDate = new DateTime(2019, 04, 21),
+            StartDate = new DateTime(2020, 04, 04),
+            EndDate = new DateTime(2020, 04, 21),
             Duration = "0",
             Predecessor = "9",
         },
         new TaskData() {
             TaskId = 11,
             TaskName = "Site work",
-            StartDate = new DateTime(2019, 04, 04),
-            EndDate = new DateTime(2019, 04, 21),
+            StartDate = new DateTime(2020, 04, 04),
+            EndDate = new DateTime(2020, 04, 21),
             SubTasks = (new List <TaskData> () {
                 new TaskData() {
                     TaskId = 12,
                     TaskName = "Clear the building site",
-                    StartDate = new DateTime(2019, 04, 04),
+                    StartDate = new DateTime(2020, 04, 04),
                     Duration = "2",
                     Progress = 30,
                     Predecessor = "9",
@@ -177,7 +177,7 @@
                 new TaskData() {
                     TaskId = 13,
                     TaskName = "Install temporary power service",
-                    StartDate = new DateTime(2019, 04, 04),
+                    StartDate = new DateTime(2020, 04, 04),
                     Duration = "2",
                     Predecessor = "12",
                 },
@@ -186,13 +186,13 @@
         new TaskData() {
             TaskId = 14,
             TaskName = "Foundation",
-            StartDate = new DateTime(2019, 04, 04),
-            EndDate = new DateTime(2019, 04, 21),
+            StartDate = new DateTime(2020, 04, 04),
+            EndDate = new DateTime(2020, 04, 21),
             SubTasks = (new List <TaskData> () {
                 new TaskData() {
                     TaskId = 15,
                     TaskName = "Excavate for foundations",
-                    StartDate = new DateTime(2019, 04, 04),
+                    StartDate = new DateTime(2020, 04, 04),
                     Duration = "3",
                     Progress = 30,
                     Predecessor = "13",

@@ -212,7 +212,6 @@ D:\test\gantt\gantt\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\gantt.RazorTargetAssemblyInfo.cache
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\gantt.csproj.CopyComplete
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\aMDDpk0AjIi1JRqtO5WHWpoGpH_ePeKTBdG0X_qyQ00=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\tjbh51aVu1kTNULze_ql74GraZd0WcTaq28VNttAPKA=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -278,14 +277,12 @@ D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazq
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\CNukDMTMsZ77nI593UgjfZkJqNhgDLvnpUjL2QzFL2M=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\4PCuiMuRhf-CRGiK2fV8Tm_0SQGzT_71xUfXEYFL3e4=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\itUtKKCpo2e5yuxPqn6PXeJEYMNdygaA3vFsiDaQ85Y=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\ma1Mv38xotjGcgZZKLmgiMhgXedpfGHHYo4RbrLC_sQ=.hash
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\compressed\_framework\_bin\gantt.dll.gz
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
@@ -436,3 +433,8 @@ D:\test\gantt\gantt\obj\Debug\netstandard2.1\staticwebassets\gantt.StaticWebAsse
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\staticwebassets\gantt.StaticWebAssets.xml
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\gantt.dll
 D:\test\gantt\gantt\obj\Debug\netstandard2.1\gantt.pdb
+D:\test\gantt\gantt\obj\Debug\netstandard2.1\RazorDeclaration\Shared\LoadingScreen.razor.g.cs
+D:\test\gantt\gantt\obj\Debug\netstandard2.1\Razor\Shared\LoadingScreen.razor.g.cs
+D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\zKVpJT3O2lK7qWfMCJBuei8gfAZhPSmwNcBnN7A9ocQ=.hash
+D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\_T11DKhK9TaovFIaPVOs_oXke19kknUSY_akOgFJVmc=.hash
+D:\test\gantt\gantt\obj\Debug\netstandard2.1\integrity\Ird4Tb9D2AukXDyEAk_pYBJg8ZGpRtlI8AJ5fDIDfxU=.hash

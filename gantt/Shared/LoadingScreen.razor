@@ -1,0 +1,29 @@
+﻿@using Syncfusion.Blazor.Spinner
+@using Syncfusion.Blazor.Popups
+
+
+@if (isLoaded)
+{
+    @ChildContent
+}
+else
+{
+    <div class="d-flex justify-content-center">
+        <div class="spinner-border" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+}
+
+@code {
+    bool isLoaded;
+   
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(4000); // TODO actual initialization job
+        isLoaded = true;
+    }
+}

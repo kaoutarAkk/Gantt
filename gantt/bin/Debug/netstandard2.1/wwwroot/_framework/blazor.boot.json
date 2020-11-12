@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "gantt.dll": "sha256-aMDDpk0AjIi1JRqtO5WHWpoGpH+ePeKTBdG0X+qyQ00=",
+      "gantt.dll": "sha256-zKVpJT3O2lK7qWfMCJBuei8gfAZhPSmwNcBnN7A9ocQ=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-tjbh51aVu1kTNULze+ql74GraZd0WcTaq28VNttAPKA=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -74,7 +74,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "gantt.pdb": "sha256-4PCuiMuRhf\/CRGiK2fV8Tm+0SQGzT+71xUfXEYFL3e4=",
+      "gantt.pdb": "sha256-+T11DKhK9TaovFIaPVOs+oXke19kknUSY+akOgFJVmc=",
       "Newtonsoft.Json.pdb": "sha256-itUtKKCpo2e5yuxPqn6PXeJEYMNdygaA3vFsiDaQ85Y="
     },
     "runtime": {
